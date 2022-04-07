@@ -1,4 +1,4 @@
-# David and Pamphile
+# David and Pamphile repository
 # Microverse trial project
         Updating the index.html file as per guideline.
 
